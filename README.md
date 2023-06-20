@@ -11,8 +11,9 @@
 
 - Components
 - Props
-- State
+- State(useState and useEffect)
 - Immutability
+- GitHub API
 
 ## 💻 Project
 
