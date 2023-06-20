@@ -1,11 +1,10 @@
-# <h1 align="center">attendance-list</h1>
+# <h1 align="center">Attendance List</h1>
 
-<p align="center"> React fundamentals studies.
-</p>
+<p align="center"> React fundamentals studies. </p>
 
 <p align="center">
  <a href="#-Worked-concepts">Worked Concepts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 📝 Worked Concepts
