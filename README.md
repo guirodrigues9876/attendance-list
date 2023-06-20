@@ -1,4 +1,4 @@
-# <h1 align="center">Attendance List</h1>
+<h1 align="center">Attendance List</h1>
 
 <p align="center"> React fundamentals studies. </p>
 
